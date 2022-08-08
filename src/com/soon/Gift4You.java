@@ -60,7 +60,6 @@ public class Gift4You {
                         System.out.println("Gatau sie apalagi yang mau diomongin." +
                                 "\nMungkin semua pesan udah diwakilin di pilihan 'PENYESALAN'" +
                                 "\ndan aku sadar kok bukan karena aku ga cukup baik buat kamu" +
-                                "\ntapi kamu bukan orang yang cukup baik buat aing" +
                                 "\nits not like im making down on you" +
                                 "\nbut, im just being positive for myself" +
                                 "\nkarena aing gamau lagi jadi orang yang paling seneng nyalahin diri sendiri" +
