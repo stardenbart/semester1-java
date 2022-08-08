@@ -8,7 +8,7 @@ public class Triangle {
 
         System.out.print("\nProgram Rumus Segitiga.");
         Scanner input = new Scanner(System.in);
-        System.out.printf("\n\t0. Keluar" +
+        System.out.print("\n\t0. Keluar" +
                 "\n\t1. Luas Segitiga" +
                 "\n\t2. Keliling Segitiga\n");
         System.out.print("Masukkan pilihan anda: ");
